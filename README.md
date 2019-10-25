@@ -1,2 +1,2 @@
-# Za-tita-IS
+# Zastita Informacionih Sistema
 Srdjan Maricic
