@@ -1,2 +1,2 @@
-# Zastita Informacionih Sistema
+# Zastita-Informacionih-Sistema
 Srdjan Maricic
